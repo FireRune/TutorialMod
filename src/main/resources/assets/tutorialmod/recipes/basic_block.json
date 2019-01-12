@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XXX",
+		"X#X",
+		"XXX"
+	],
+	"key": {
+		"X": {
+			"item": "tutorialmod:basic_item"
+		},
+		"#": {
+			"item": "minecraft:stone",
+			"data": 0
+		}
+	},
+	"result": {
+		"item": "tutorialmod:basic_block"
+	}
+}

@@ -1,0 +1,29 @@
+item.tutorialmod.itemBasic.name=Basic Item
+
+item.tutorialmod.ingotCopper.name=Copper Ingot
+
+item.tutorialmod.axeTutorial.name=Tutorial Axe
+
+item.tutorialmod.pickaxeTutorial.name=Tutorial Pickaxe
+
+item.tutorialmod.hoeTutorial.name=Tutorial Hoe
+
+item.tutorialmod.shovelTutorial.name=Tutorial Shovel
+
+item.tutorialmod.swordTutorial.name=Tutorial Sword
+
+item.tutorialmod.helmetTutorial.name=Tutorial Helmet
+
+item.tutorialmod.chestplateTutorial.name=Tutorial Chestplate
+
+item.tutorialmod.leggingsTutorial.name=Tutorial Leggings
+
+item.tutorialmod.bootsTutorial.name=Tutorial Boots
+
+tile.tutorialmod.blockBasic.name=Basic Block
+
+tile.tutorialmod.blockCopper.name=Copper Block
+
+tile.tutorialmod.oreCopper.name=Copper Ore
+
+itemGroup.tutorialmod.tabTutorialMod=Tutorial Mod

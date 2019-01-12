@@ -1,0 +1,35 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "tutorialmod:ingot_copper"
+		},
+		{
+			"item": "tutorialmod:ingot_copper"
+		},
+		{
+			"item": "tutorialmod:ingot_copper"
+		},
+		{
+			"item": "tutorialmod:ingot_copper"
+		},
+		{
+			"item": "tutorialmod:ingot_copper"
+		},
+		{
+			"item": "tutorialmod:ingot_copper"
+		},
+		{
+			"item": "tutorialmod:ingot_copper"
+		},
+		{
+			"item": "tutorialmod:ingot_copper"
+		},
+		{
+			"item": "tutorialmod:ingot_copper"
+		}
+	],
+	"result": {
+		"item": "tutorialmod:block_copper"
+	}
+}

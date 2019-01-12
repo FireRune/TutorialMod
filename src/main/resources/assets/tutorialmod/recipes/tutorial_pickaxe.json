@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XXX",
+		" # ",
+		" # "
+	],
+	"key": {
+		"X": {
+			"item": "tutorialmod:ingot_copper"
+		},
+		"#": {
+			"item": "tutorialmod:basic_item"
+		}
+	},
+	"result": {
+		"item": "tutorialmod:tutorial_pickaxe"
+	}
+}
